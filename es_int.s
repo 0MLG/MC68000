@@ -1,6 +1,3 @@
-* 190260; 77385052; Lopez Gallardo, Maria;	 maria.lopez.gallardo@alumnos.upm.es
-* 190375; 48202101; Garcia Postigo, Marcos;	 marcos.garcia.postigo@alumnos.upm.es
-
 	ORG     $0
     DC.L    $8000          * Pila
     DC.L    START           * PC
